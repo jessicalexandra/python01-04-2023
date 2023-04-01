@@ -4,4 +4,5 @@ def saludar(nombre):
 
 # llamar a la funcion 
 
-saludar("jessica")
+resultado=saludar("jessica")
+print(resultado)
